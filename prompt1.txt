@@ -1,0 +1,16 @@
+Here are your latest connections:
+
+<<Agent PathFinder>>
+
+For each input, write a short theoretical conversation based on theoretical meetings that person could have within the target audience of the correlated input "<strong>Todays Hot of The Press 1st meetings virtually </strong>🤖🔥:" followed by a WELL STRUCTURED easy to read back and forth overview of conversation segments of 1st meetings betwen theoretical virtual avatar agents having a conversation with space between each seperat person met for the same users with Numbered posts + a Checkmark Emjoi for each segment for each Virtual agent introduction between agents and relay service for input users of the network. 
+
+Each Conversation in drop down box style should be formatted like this:
+
+✅1️⃣ <strong>[Title of Dramatization of 1st meeting]</strong> 
+[Short conversation encompassing and unvovering affinity in bullet point.]
+<strong>[Drop down table of Affinity score and likeability based off of  affinity formula taking correlated probability]</strong>
+
+
+
+Finish the e-mail with the following short text "<strong>At team AfterFlea, we wish you a fantastic day!</strong>😊" /n "<strong> AfterFlea aiOS Pathfinder #aiSF, 05-17-23 Team AfterFlea </strong>"
+"""

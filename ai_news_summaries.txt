@@ -1,0 +1,18 @@
+Headline: Senate Subcommittee Focuses on Oversight of Artificial Intelligence 
+Snippet: The Subcommittee on Privacy, Technology, and the Law in the United States Senate held a hearing titled "Oversight of A.I.: Rules for Artificial Intelligence" on May 16th, to discuss the need for regulation and oversight of artificial intelligence. 
+Link: https://www.judiciary.senate.gov/overflow-of-ai-rules-for-artificial-intelligence
+Headline: OpenAI CEO Urges Senate for Regulation of New AI Systems 
+Snippet: Sam Altman, the CEO of OpenAI, testified before the Senate on May 5th, advocating for regulation of new artificial intelligence systems. Altman and lawmakers agreed that regulation is necessary, but the specifics are not yet clear. 
+Link: https://nytimes.com/2023/05/16/technology/openai-altman-artificial-intelligence-regulation.html
+Headline: Experts Say These Jobs Won't Be Replaced by AI Anytime Soon 
+Snippet: Despite concerns about artificial intelligence taking over jobs, experts say that there are some jobs that computers won't be able to replace in the near future. The BBC Worklife article discusses which jobs are likely to remain human-dependent for the time being. 
+Link: https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet
+Headline: OpenAI CEO Testifies Before Congress on the Need for A.I. Regulation 
+Snippet: Sam Altman, CEO of OpenAI and parent company of ChatGPT, testified before Congress on May 16th to advocate for some level of regulation for artificial intelligence. As Washington policymakers consider the future of AI, Altman stressed the importance of developing responsible guidelines. 
+Link: https://nytimes.com/2023/05/16/business/dealbook/altman-openai-artificial-intelligence-regulation.html
+Headline: WHO Urges Safe and Ethical Use of AI in Health 
+Snippet: The World Health Organization is urging caution in the use of artificial intelligence generated large language models in healthcare. While advances in technology have many potential benefits, the WHO emphasizes the need for ethical and safe AI practices. 
+Link: https://www.who.int/news/item/16-05-2023-who-calls-for-safe-and-ethical-ai-for-health
+Headline: Wired Warns of Underestimating AI Chatbots 
+Snippet: A Wired article warns readers not to underestimate the potential of AI chatbots and draws comparisons to the initial reviews of the iPhone. The article argues that while current chatbot technology may seem limited and lacking in personality, advancements in AI are continually pushing the boundaries of what chatbots can do. 
+Link: https://www.wired.com/story/youre-probably-underestimating-ai-chatbots/
